@@ -12,3 +12,4 @@ __pycache__/
 Lib/
 pyvenv.cfg
 media/
+.prettierignore
